@@ -26,7 +26,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/palm_mask.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/palm_mask.STL" />
       </geometry>
       <material
         name="">
@@ -42,7 +42,7 @@
         rpy="1.5708 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/palm_link.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/palm_link.STL" />
       </geometry>
       <!-- MuJoCo collision parameters - 增大palm的margin和gap -->
       <mu1 value="0.8"/>
@@ -75,7 +75,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger1_link1.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger1_link1.STL" />
       </geometry>
       <material
         name="">
@@ -89,7 +89,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger1_link1.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger1_link1.STL" />
       </geometry>
       <!-- MuJoCo collision parameters - 第一指节增加margin和gap -->
       <margin value="0.006"/>
@@ -137,7 +137,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger1_link2.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger1_link2.STL" />
       </geometry>
       <material
         name="">
@@ -151,7 +151,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger1_link2.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger1_link2.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -196,7 +196,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger1_link3.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger1_link3.STL" />
       </geometry>
       <material
         name="">
@@ -210,7 +210,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger1_link3.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger1_link3.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -255,7 +255,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger1_link4.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger1_link4.STL" />
       </geometry>
       <material
         name="">
@@ -269,7 +269,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger1_link4.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger1_link4.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -314,7 +314,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger1_tip_link.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger1_tip_link.STL" />
       </geometry>
       <material
         name="">
@@ -328,7 +328,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger1_tip_link.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger1_tip_link.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -373,7 +373,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger2_link1.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger2_link1.STL" />
       </geometry>
       <material
         name="">
@@ -387,7 +387,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger2_link1.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger2_link1.STL" />
       </geometry>
       <!-- MuJoCo collision parameters - 第一指节增加margin和gap -->
       <margin value="0.006"/>
@@ -435,7 +435,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger2_link2.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger2_link2.STL" />
       </geometry>
       <material
         name="">
@@ -449,7 +449,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger2_link2.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger2_link2.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -494,7 +494,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger2_link3.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger2_link3.STL" />
       </geometry>
       <material
         name="">
@@ -508,7 +508,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger2_link3.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger2_link3.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -553,7 +553,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger2_link4.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger2_link4.STL" />
       </geometry>
       <material
         name="">
@@ -567,7 +567,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger2_link4.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger2_link4.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -612,7 +612,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger2_tip_link.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger2_tip_link.STL" />
       </geometry>
       <material
         name="">
@@ -626,7 +626,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger2_tip_link.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger2_tip_link.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -666,7 +666,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger3_link1.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger3_link1.STL" />
       </geometry>
       <material
         name="">
@@ -680,7 +680,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger3_link1.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger3_link1.STL" />
       </geometry>
       <!-- MuJoCo collision parameters - 第一指节增加margin和gap -->
       <margin value="0.006"/>
@@ -728,7 +728,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger3_link2.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger3_link2.STL" />
       </geometry>
       <material
         name="">
@@ -742,7 +742,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger3_link2.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger3_link2.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -787,7 +787,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger3_link3.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger3_link3.STL" />
       </geometry>
       <material
         name="">
@@ -801,7 +801,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger3_link3.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger3_link3.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -846,7 +846,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger3_link4.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger3_link4.STL" />
       </geometry>
       <material
         name="">
@@ -860,7 +860,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger3_link4.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger3_link4.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -905,7 +905,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger3_tip_link.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger3_tip_link.STL" />
       </geometry>
       <material
         name="">
@@ -919,7 +919,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger3_tip_link.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger3_tip_link.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -959,7 +959,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger4_link1.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger4_link1.STL" />
       </geometry>
       <material
         name="">
@@ -973,7 +973,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger4_link1.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger4_link1.STL" />
       </geometry>
       <!-- MuJoCo collision parameters - 第一指节增加margin和gap -->
       <margin value="0.006"/>
@@ -1021,7 +1021,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger4_link2.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger4_link2.STL" />
       </geometry>
       <material
         name="">
@@ -1035,7 +1035,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger4_link2.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger4_link2.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -1080,7 +1080,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger4_link3.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger4_link3.STL" />
       </geometry>
       <material
         name="">
@@ -1094,7 +1094,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger4_link3.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger4_link3.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -1139,7 +1139,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger4_link4.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger4_link4.STL" />
       </geometry>
       <material
         name="">
@@ -1153,7 +1153,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger4_link4.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger4_link4.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -1198,7 +1198,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger4_tip_link.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger4_tip_link.STL" />
       </geometry>
       <material
         name="">
@@ -1212,7 +1212,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger4_tip_link.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger4_tip_link.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -1252,7 +1252,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger5_link1.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger5_link1.STL" />
       </geometry>
       <material
         name="">
@@ -1266,7 +1266,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger5_link1.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger5_link1.STL" />
       </geometry>
       <!-- MuJoCo collision parameters - 第一指节增加margin和gap -->
       <margin value="0.006"/>
@@ -1314,7 +1314,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger5_link2.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger5_link2.STL" />
       </geometry>
       <material
         name="">
@@ -1328,7 +1328,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger5_link2.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger5_link2.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -1373,7 +1373,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger5_link3.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger5_link3.STL" />
       </geometry>
       <material
         name="">
@@ -1387,7 +1387,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger5_link3.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger5_link3.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -1432,7 +1432,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger5_link4.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger5_link4.STL" />
       </geometry>
       <material
         name="">
@@ -1446,7 +1446,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger5_link4.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger5_link4.STL" />
       </geometry>
       <class>collision</class>
     </collision>
@@ -1491,7 +1491,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger5_tip_link.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger5_tip_link.STL" />
       </geometry>
       <material
         name="">
@@ -1505,7 +1505,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://wujihand-urdf/meshes/left/finger5_tip_link.STL" />
+          filename="package://wujihand-urdf/Description/meshes/left/finger5_tip_link.STL" />
       </geometry>
       <class>collision</class>
     </collision>
