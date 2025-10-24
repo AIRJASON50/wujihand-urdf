@@ -4,7 +4,7 @@ project(wujihand-urdf)
 find_package(ament_cmake REQUIRED)
 
 install(
-    DIRECTORY launch meshes rviz urdf
+    DIRECTORY Description .scripts/launch .scripts/rviz
     DESTINATION share/${PROJECT_NAME}
 )
 
