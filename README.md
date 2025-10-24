@@ -2,7 +2,7 @@
 
 20自由度灵巧机器人手仿真系统，支持RViz可视化和MuJoCo物理仿真
 
-## 📁 文件结构
+##  文件结构
 
 ```
 wujihand-urdf/
@@ -22,7 +22,7 @@ wujihand-urdf/
 └── requirements.txt                # Python依赖
 ```
 
-## 🚀 使用方法
+##  使用方法
 
 ### 方法1: RViz可视化 (需要ROS2)
 
